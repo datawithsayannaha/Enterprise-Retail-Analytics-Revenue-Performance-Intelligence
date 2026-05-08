@@ -4,7 +4,7 @@ A complete end-to-end Retail Business Intelligence project focused on revenue an
 
 Built using:
 
-# Power BI → Advanced DAX Modeling
+# Power BI →  DAX Modeling
 
 ---
 
