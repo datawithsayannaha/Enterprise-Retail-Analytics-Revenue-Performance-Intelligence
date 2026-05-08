@@ -45,20 +45,9 @@ The goal of this project was not only to build dashboards, but also to demonstra
 
 ---
 
-# 🛤️ Project Workflow
+## 🛤️ Project Roadmap
 
-```text
-Retail Dataset
-        │
-        ▼
-Power BI Data Modeling
-        │
-        ▼
-Advanced DAX Calculations
-        │
-        ▼
-Interactive Enterprise Dashboards
-```
+![Project Roadmap](images/Diagram.png)
 
 ---
 
